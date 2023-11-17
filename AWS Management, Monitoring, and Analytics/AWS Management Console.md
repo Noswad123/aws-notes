@@ -1,0 +1,5 @@
+- web app that contains a collection of service consoles
+- test environments
+- view aws bills
+- view monitoring
+- work with non-technical resources

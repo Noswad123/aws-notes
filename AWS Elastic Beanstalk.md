@@ -1,0 +1,6 @@
+- helps provision Amazon EC2 based environments
+- reduces cloud management complexity
+- Adjust capacity
+- load balancing
+- automatic scaling
+- Application health monitoring

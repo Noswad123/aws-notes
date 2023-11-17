@@ -1,0 +1,1 @@
+- global community of partners that leverages programs, expertise, and resources to build, market, and sell customer offerings.

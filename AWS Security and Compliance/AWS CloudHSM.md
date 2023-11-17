@@ -1,0 +1,5 @@
+- Manage single-tenant hardware security modules(HSM)
+- manage and access your keys on FIPS-validated hardware
+- dedicated hardware-based cryptographic key storage
+- processes cryptographic operations
+- [CloudHSM Docs](https://docs.aws.amazon.com/cloudhsm/latest/userguide/introduction.html)
